@@ -10,5 +10,5 @@ package S07_06;
  * @author User
  */
 public class main {
-    
+
 }
