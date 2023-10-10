@@ -6,4 +6,8 @@ package S11_06_E01;
  */
 public class Main_06_E01 {
     
+    public static void main(String[] args){
+        
+        
+    }
 }
