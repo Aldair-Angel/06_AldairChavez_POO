@@ -23,7 +23,7 @@ public class Entrenador_06_E01 extends Persona_06_E01{
     String titulacion;
     
     public void entrenar(){
-        
+        System.out.println(nombre+ " tiene " +añosExperienci+ "años de experiencia");
     }
     public void gestionarIngresos(){
         

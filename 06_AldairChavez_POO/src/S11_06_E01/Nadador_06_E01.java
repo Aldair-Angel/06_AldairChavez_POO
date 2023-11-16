@@ -23,7 +23,7 @@ public class Nadador_06_E01 extends Persona_06_E01{
     String logros;
     
     public void nadarMariposa(){
-        
+        System.out.println(nombre+ " sabe nadar muy bien de mariposa");
     }
     public void ejercicsioRespiracion(){
         

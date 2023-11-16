@@ -11,7 +11,7 @@ public class persona2_06 {
     String cargo;
     int añosExperiencia;
 
-    //Albañil
+    //constructor
     public persona2_06(String apodo, String cargo, int añosExperiencia) {
         this.apodo = apodo;
         this.cargo = cargo;

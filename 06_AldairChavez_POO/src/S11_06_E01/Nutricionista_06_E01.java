@@ -23,7 +23,7 @@ public class Nutricionista_06_E01 extends Persona_06_E01{
     String CalificacionCalidad;
     
     public void cocinar(){
-        
+        System.out.println("A "+nombre+ " Le gusta cocinar y es calificado de " +CalificacionCalidad);
     }
     public void entrevistar(){
         
